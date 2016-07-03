@@ -1,0 +1,9 @@
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Anno 2070 World Editor\Anno 2070 World Editor\bin\x86\Debug\Anno 2070 World Editor.exe.config
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Anno 2070 World Editor\Anno 2070 World Editor\bin\x86\Debug\Anno 2070 World Editor.exe
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Anno 2070 World Editor\Anno 2070 World Editor\bin\x86\Debug\Anno 2070 World Editor.pdb
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Anno 2070 World Editor\Anno 2070 World Editor\obj\x86\Debug\Anno_2070_World_Editor.Editor.resources
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Anno 2070 World Editor\Anno 2070 World Editor\obj\x86\Debug\Anno_2070_World_Editor.Properties.Resources.resources
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Anno 2070 World Editor\Anno 2070 World Editor\obj\x86\Debug\Anno 2070 World Editor.csproj.GenerateResource.Cache
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Anno 2070 World Editor\Anno 2070 World Editor\obj\x86\Debug\Anno 2070 World Editor.exe
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Anno 2070 World Editor\Anno 2070 World Editor\obj\x86\Debug\Anno 2070 World Editor.pdb
+C:\Users\Benny\Documents\Visual Studio 2010\Projects\Anno 2070 World Editor\Anno 2070 World Editor\obj\x86\Debug\Anno 2070 World Editor.csprojResolveAssemblyReference.cache
